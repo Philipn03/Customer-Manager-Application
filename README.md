@@ -4,10 +4,10 @@
 The Customer Manager program is a Java-based application that enables users to manage a list of customers. It allows users to add new customers with various details, view and edit existing customer information, and delete customers. 
 The program includes a user-friendly graphical interface with features like input validation, alphabetical sorting, and informative dialogs.
 
-- View Customers
+- View Customers - 
 Click on a customer's name in the list to view their information on the right.
 
-- Edit Customer
+- Edit Customer - 
 Select a customer in the list.
 Edit information on the right.
 Click "Save Customer."
@@ -15,7 +15,7 @@ Handle invalid input with warning dialogs.
 Prevent changing a customer's name to an existing one.
 Upon valid input, a dialog confirms "Customer saved!"
 
-- Delete Customer
+- Delete Customer - 
 Select a customer in the list.
 Click the "Delete" button.
 
